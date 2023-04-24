@@ -17,4 +17,6 @@ El perceptrón ha sido utilizado en diversas aplicaciones, incluyendo:
 
 - Control automático: El perceptrón ha sido utilizado en el control automático, como en el control de robots y sistemas de navegación.
 
-![Ejemplo de un perceptrón](https://github.com/Zillth/perceptron/blob/main/perceptron.png)
+<p align="center">
+  <img src="https://github.com/Zillth/perceptron/blob/main/perceptron.png" alt="Ejemplo de un perceptron" style="max-width: 100%;">
+</p>
